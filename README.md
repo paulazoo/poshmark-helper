@@ -1,4 +1,4 @@
-# posh-for-lil
+# poshmark-helper
 This helps with poshmark account sharing to increase clothes exposure.
 
 The more your clothes are shared, the more likely they will be sold.
