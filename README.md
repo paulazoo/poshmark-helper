@@ -1,5 +1,7 @@
 # posh-for-lil
-helps with poshmark account sharing to increase clothes exposure.
+This helps with poshmark account sharing to increase clothes exposure.
+
+The more your clothes are shared, the more likely they will be sold.
 
 # functions:
 newdriver(): start new browser window
